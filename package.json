@@ -1,0 +1,8 @@
+{
+  "name": "gas-resumable-purchase-orders",
+  "version": "1.0.0",
+  "private": true,
+  "description": "再開可能な Google Apps Script 発注書生成サンプル",
+  "type": "commonjs",
+  "engines": { "node": ">=20" }
+}

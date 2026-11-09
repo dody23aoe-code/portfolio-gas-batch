@@ -1,0 +1,5 @@
+REPORT.md
+.clasp.json
+.clasprc.json
+node_modules/
+*.log
